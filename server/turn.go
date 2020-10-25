@@ -13,8 +13,8 @@ import (
 )
 
 const (
-	publicIP = "192.168.0.11"
-	port     = 3478
+	publicIP = "192.168.0.20"
+	port     = 1234
 	realm    = "chat.app"
 )
 
